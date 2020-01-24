@@ -5,162 +5,166 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Title and Credits/Title.unity
+  - enabled: 0
+    path: Assets/Old/Title and Credits/Title.unity
     guid: bd439ca8643129749bb8286e02fa2dee
-  - enabled: 1
-    path: Assets/Title and Credits/Credits.unity
+  - enabled: 0
+    path: Assets/Old/Title and Credits/Credits.unity
     guid: d80d2f37fa19c114c8b918c5ac734f78
-  - enabled: 1
-    path: Assets/DIALOGUE/Dialogue One.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Dialogue One.unity
     guid: 9f2d3c0e2dd945849a733c57d7ee72c2
-  - enabled: 1
-    path: Assets/DIALOGUE/Dialogue Two.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Dialogue Two.unity
     guid: c22bbc432b785eb4e9831ab3b80dbad3
-  - enabled: 1
-    path: Assets/DIALOGUE/Dialogue Three.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Dialogue Three.unity
     guid: 2998ffc55c66bcd4080fd28174b969ea
-  - enabled: 1
-    path: Assets/DIALOGUE/Dialogue Four.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Dialogue Four.unity
     guid: 2bfc23760ac4df9448e14c4e73fa3899
-  - enabled: 1
-    path: Assets/DIALOGUE/Dialogue Five.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Dialogue Five.unity
     guid: 852125a35d532094b8d918c7b9b0a2c5
-  - enabled: 1
-    path: Assets/DIALOGUE/Introduction.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Introduction.unity
     guid: 4c3be2f5e2495d944a942d8676071d36
-  - enabled: 1
-    path: Assets/DIALOGUE/Tutorial.unity
+  - enabled: 0
+    path: Assets/Old/DIALOGUE/Tutorial.unity
     guid: a28a7d0581da4c047b1ad1047716936b
-  - enabled: 1
-    path: Assets/CONVO/Convo One.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Convo One.unity
     guid: 2fe6c799292d9fb40a87a03c848fdbf8
-  - enabled: 1
-    path: Assets/CONVO/Convo Two.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Convo Two.unity
     guid: df33fb7c30a84384b8475ee59dcd7937
-  - enabled: 1
-    path: Assets/CONVO/Convo Three.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Convo Three.unity
     guid: 65a6c2b096bdf8e469dc2995750f9f2b
-  - enabled: 1
-    path: Assets/CONVO/Convo Four.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Convo Four.unity
     guid: bfd52bce02b9b844785f7ecdd121cea2
-  - enabled: 1
-    path: Assets/CONVO/Convo Five.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Convo Five.unity
     guid: e6a1322049332a4439944c48cd6e20ad
-  - enabled: 1
-    path: Assets/CONVO/Fight Tutorial.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Fight Tutorial.unity
     guid: b6eb2d42d715a814999fca54d3f3c984
-  - enabled: 1
-    path: Assets/CONVO/Get Flower.unity
+  - enabled: 0
+    path: Assets/Old/CONVO/Get Flower.unity
     guid: 79ab13ec004200647991e4e5369124f2
-  - enabled: 1
-    path: Assets/2CONVO/TwoConvoOne.unity
+  - enabled: 0
+    path: Assets/Old/2CONVO/TwoConvoOne.unity
     guid: 9c900738cb318314b8b3d3ff7bac83f5
-  - enabled: 1
-    path: Assets/2CONVO/Collecting Flowers One.unity
+  - enabled: 0
+    path: Assets/Old/2CONVO/Collecting Flowers One.unity
     guid: 336866acf78b7cf428849ab941fa333a
-  - enabled: 1
-    path: Assets/3CONVO/Three Convo One.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/Three Convo One.unity
     guid: 1b2861cdf055ae5438847ef3a2260aa4
-  - enabled: 1
-    path: Assets/3CONVO/Three Convo Two.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/Three Convo Two.unity
     guid: 61c17386cc1bb0c46a604e1c4e6e0588
-  - enabled: 1
-    path: Assets/3CONVO/Three Convo Three.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/Three Convo Three.unity
     guid: 655c4a5a97de1c5438cf904bf5be54fc
-  - enabled: 1
-    path: Assets/3CONVO/Three Convo Four.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/Three Convo Four.unity
     guid: f94755f06506b39448312deb62474936
-  - enabled: 1
-    path: Assets/3CONVO/Three Convo Five.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/Three Convo Five.unity
     guid: 712500d68a455d741ae1b3f1d357a69c
-  - enabled: 1
-    path: Assets/3CONVO/Three Convo Six.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/Three Convo Six.unity
     guid: c48bbe0db1066be499cf94777a8b02ce
-  - enabled: 1
-    path: Assets/3CONVO/CollectThreeFlowers.unity
+  - enabled: 0
+    path: Assets/Old/3CONVO/CollectThreeFlowers.unity
     guid: d92a26c3de41ae346a209bd429f617db
-  - enabled: 1
-    path: Assets/4CONVO/Four Convo One.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Four Convo One.unity
     guid: dfb1598fee95afc43a0fb118903fde81
-  - enabled: 1
-    path: Assets/4CONVO/Four Convo Two.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Four Convo Two.unity
     guid: d9d55d0c00edbc444870b86c48bb0f03
-  - enabled: 1
-    path: Assets/4CONVO/Four Convo Three.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Four Convo Three.unity
     guid: e9bb0615649f2bb439aba95bcdce063b
-  - enabled: 1
-    path: Assets/4CONVO/Four Convo Four.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Four Convo Four.unity
     guid: 3ec7a298a684dde4f914016bc895a165
-  - enabled: 1
-    path: Assets/4CONVO/Four Convo Five.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Four Convo Five.unity
     guid: 8612b42497348ac43a4621bde66fb34a
-  - enabled: 1
-    path: Assets/4CONVO/Four Convo Six.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Four Convo Six.unity
     guid: 1642767d78c3e0c44aa3a523e2f83b7f
-  - enabled: 1
-    path: Assets/4CONVO/Level Three.unity
+  - enabled: 0
+    path: Assets/Old/4CONVO/Level Three.unity
     guid: 12505f26df7e66749a4780ce6679c07f
-  - enabled: 1
-    path: Assets/SceneswithButtons/Five Convo One.unity
+  - enabled: 0
+    path: Assets/Old/SceneswithButtons/Five Convo One.unity
     guid: 1f78463c36fb6cd4e833591baaec5e85
-  - enabled: 1
-    path: Assets/SceneswithButtons/Five Convo Two.unity
+  - enabled: 0
+    path: Assets/Old/SceneswithButtons/Five Convo Two.unity
     guid: 9a2e55dc808dd944c9e24d72f01df8c0
-  - enabled: 1
-    path: Assets/SceneswithButtons/Five Convo Three.unity
+  - enabled: 0
+    path: Assets/Old/SceneswithButtons/Five Convo Three.unity
     guid: 354d4f6937f721847ac948cded47ff36
-  - enabled: 1
-    path: Assets/SceneswithButtons/Five Convo Four.unity
+  - enabled: 0
+    path: Assets/Old/SceneswithButtons/Five Convo Four.unity
     guid: b6d37b77ea09db842962e363d980f6ca
-  - enabled: 1
-    path: Assets/Scenes/Final Level.unity
+  - enabled: 0
+    path: Assets/Old/Scenes/Final Level.unity
     guid: 88556ab6f6f4e7449bba9026d455b1dc
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo.unity
     guid: daefccd803e926849a48f70c05abb3ea
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Two.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Two.unity
     guid: 77c8303f705c2a5439315ae858e1585d
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Three.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Three.unity
     guid: db2ffc367103d664db9557c4f9c8d97a
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Four.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Four.unity
     guid: acf197c773989714e90beca63759d7e6
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Five.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Five.unity
     guid: 1bcc8c30d05c2004a8355e97d9f2d772
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Six.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Six.unity
     guid: c57f03347ccbb72469374d90d3528b56
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Seven.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Seven.unity
     guid: 5a340ffa599b4674d84d899d530f4d61
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Eight.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Eight.unity
     guid: 931af53b70c6dd84c98a35e69e039165
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Nine.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Nine.unity
     guid: 6b823660686deac4c949b06aaa62357c
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Ten.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Ten.unity
     guid: f6adcd4493cbe914284a52ce254ecdb3
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Eleven.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Eleven.unity
     guid: 2f93852b417bd034ebb29a095c44f893
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Twelve.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Twelve.unity
     guid: eb2e7d96770eb0c49bf07ae24a7613c2
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Thirteen.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Thirteen.unity
     guid: c4fd602d50eecbc4ea541c844e341e5a
-  - enabled: 1
-    path: Assets/Ending/Scenes/Final Convo Fourteen.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Final Convo Fourteen.unity
     guid: 229f6d764ee9753418f7e9f16c0d0460
-  - enabled: 1
-    path: Assets/Ending/Scenes/Ending.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Ending.unity
     guid: 48ada8931acba034baae506eb2302f46
-  - enabled: 1
-    path: Assets/Ending/Scenes/Goodbye.unity
+  - enabled: 0
+    path: Assets/Old/Ending/Scenes/Goodbye.unity
     guid: 896ef90650ca202409737426b199d152
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: ed389f741081209428e582ab09d4b800
+  m_configObjects: {}
