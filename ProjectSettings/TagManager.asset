@@ -5,21 +5,22 @@ TagManager:
   serializedVersion: 2
   tags:
   - door
-  - bullet
-  - D1
-  - flower
-  - evilb
-  - flower1
-  - flowerone
-  - evil2
-  - flower2
-  - D2
-  - flower3
-  - evilb3
-  - f3
-  - finalf
-  - finalb
-  - demon1
+  - Door
+  - Stool
+  - Note
+  - FB
+  - Coffee
+  - Counter
+  - Table
+  - Flower
+  - Spring
+  - Bench
+  - Summer
+  - Fall
+  - Brother
+  - Winter
+  - Gate
+  - Grave
   layers:
   - Default
   - TransparentFX
